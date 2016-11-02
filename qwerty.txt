@@ -1,4 +1,5 @@
 <html>
 	<title>My First Project</title>
 	<Update information by Dmitriy>
+	<Create new page by IceNiceV>
 </html>
